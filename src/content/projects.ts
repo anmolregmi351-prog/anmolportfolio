@@ -1,4 +1,4 @@
-import eshara from "@/assets/yuni.jpg";
+import eshara from "@/assets/image.png";
 import agro from "@/assets/project-agro.jpg";
 import emergency from "@/assets/project-emergency.jpg";
 
